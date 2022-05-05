@@ -1,3 +1,3 @@
-Software development company website.
+black pixel - software development company website
 
 Use: React
